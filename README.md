@@ -14,7 +14,7 @@
 
 **Jetsnail Pvt** helps businesses build and grow online. From custom software and professional websites to social media management, we take care of the technical and creative work so you can focus on running your business.
 
-📍 Based in Kerala, India · Founded in [2025] by [James George](https://github.com/jamesgeorge-2002)
+📍 Based in Kerala, India · Founded in 2025 by [James George](https://github.com/jamesgeorge-2002)
 
 ## 🚀 What We Do
 
@@ -32,7 +32,6 @@
 4. **Launch:** deployment, testing, and handover.
 5. **Support:** maintenance, updates, and ongoing growth.
 
-
 ## 🛠️ Technologies We Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,17 +45,14 @@
 
 ## 🤝 Work With Us
 
-- 💼 Need custom software or a new website? [Request a quote](mailto:your@email.com)
+- 💼 Need custom software or a new website? [Request a quote](mailto:jetsnail.tec@gmail.com)
 - 📱 Want your social media handled by professionals? Let's talk.
 - 🤝 Open to partnerships and collaborations
-- 👩‍💻 Hiring: [open roles](#) *(remove if none)*
 
 ## 📫 Get in Touch
 
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 📧 Email: your@email.com
-- 📞 Phone / WhatsApp: +91 XXXXX XXXXX *(optional)*
-- 💼 LinkedIn: [Jetsnail on LinkedIn](https://linkedin.com/company/your-company)
-- 📸 Instagram: [@your-handle](https://instagram.com/your-handle)
+- 🌐 Website: [jetsnail.vercel.app](https://jetsnail.vercel.app/)
+- 📧 Email: [jetsnail.tec@gmail.com](mailto:jetsnail.tec@gmail.com)
+- 📞 Phone / WhatsApp: [+91 83300 14924](https://wa.me/91833001492)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
