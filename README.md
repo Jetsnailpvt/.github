@@ -1,58 +1,57 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jetsnail&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Custom%20Software%20%7C%20Websites%20%7C%20Social%20Media&descSize=18&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=JetSnail&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Smart%20Architecture%20%C2%B7%20Jet%20Speed&descSize=18&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=560&lines=Custom+Software+Built+Around+Your+Business;Fast%2C+Modern+Websites+That+Convert;Social+Media+Management+That+Grows+Your+Brand)](https://github.com/Jetsnailpvt)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=560&lines=Mobile+Apps+Built+for+Performance;Lightning-Fast+Web+Platforms;Custom+Software+%26+AI-Powered+Tools)](https://jetsnail.vercel.app/)
 
-**We build custom software, websites, and manage social media for growing businesses.**
+**JetSnail Smart Solutions crafts mobile apps, web platforms, and custom software with the precision of an engineer and the velocity of a jet.**
 
-[🌐 Website](https://jetsnail.vercel.app/) · [📧 Contact](mailto:jetsnail.tec@gmail.com)
+[🌐 Website](https://jetsnail.vercel.app/) · [🚀 Start a Project](https://jetsnail.vercel.app/#contact) · [📧 Email](mailto:jetsnailcomapny@gmail.com)
 
 </div>
 
 ## 👋 About Us
 
-**Jetsnail Pvt** helps businesses build and grow online. From custom software and professional websites to social media management, we take care of the technical and creative work so you can focus on running your business.
+**JetSnail Smart Solutions** is a software company based in Kerala, India, founded in 2025 by [James George](https://github.com/jamesgeorge-2002). We help businesses turn ideas into fast, scalable digital products: software that ships fast and scales smart.
 
-📍 Based in Kerala, India · Founded in 2025 by [James George](https://github.com/jamesgeorge-2002)
+## 🚀 What We Build
 
-## 🚀 What We Do
+| Service | What you get | Tech |
+|---|---|---|
+| 📱 **Mobile App Development** | Native iOS & Android and cross-platform builds with pixel-perfect UI and App Store launch support | iOS · Android · React Native · Flutter |
+| 🌐 **Web Solutions** | Fast marketing sites, SaaS dashboards, and progressive web apps built for scale and SEO | Next.js · React · Edge · SEO |
+| ⚙️ **Custom Software** | Bespoke internal tools, AI-powered platforms, and integrations that simplify complex workflows | AI / LLM · APIs · Cloud · DevOps |
 
-| Service | What you get |
+## ✈️ Our Process
+
+| Step | What happens |
 |---|---|
-| 💻 **Custom Software** | Web apps, mobile apps, dashboards, and internal tools built around your workflow, with scalable backends and AI features where they help |
-| 🌐 **Website Development** | Fast, responsive, SEO-friendly websites and e-commerce stores, from business sites to landing pages |
-| 📱 **Social Media Management** | Content planning, post design, scheduling, and growth on Instagram, Facebook, LinkedIn, and more |
-
-## 🔧 How We Work
-
-1. **Discover:** we learn your goals, users, and budget.
-2. **Plan:** scope, timeline, and a clear quote.
-3. **Build:** regular updates and demos along the way.
-4. **Launch:** deployment, testing, and handover.
-5. **Support:** maintenance, updates, and ongoing growth.
+| **01 · Discover** | Workshops, audits, and a shared map of the problem space |
+| **02 · Design** | Interactive prototypes, design systems, and motion language |
+| **03 · Engineer** | Modular code, automated tests, and performance budgets |
+| **04 · Launch** | Phased rollout, observability, and a velocity playbook |
 
 ## 🛠️ Technologies We Use
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🤝 Work With Us
 
-- 💼 Need custom software or a new website? [Request a quote](mailto:jetsnail.tec@gmail.com)
-- 📱 Want your social media handled by professionals? Let's talk.
+- 💼 Have a product idea? [Start a project](https://jetsnail.vercel.app/#contact). We reply within one business day.
 - 🤝 Open to partnerships and collaborations
+- 🌍 Open-source contributions welcome
 
 ## 📫 Get in Touch
 
 - 🌐 Website: [jetsnail.vercel.app](https://jetsnail.vercel.app/)
-- 📧 Email: [jetsnail.tec@gmail.com](mailto:jetsnail.tec@gmail.com)
-- 📞 Phone / WhatsApp: [+91 83300 14924](https://wa.me/91833001492)
+- 📧 Email: [jetsnailcomapny@gmail.com](mailto:jetsnailcomapny@gmail.com)
+- 📞 Phone / WhatsApp: [+91 83300 14924](https://wa.me/918330014924)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
